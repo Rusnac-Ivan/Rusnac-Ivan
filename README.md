@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=C%2B%2B+Engineer+%7C+XR%2FVR;Vulkan+%2F+OpenGL+%2F+LLGL;Meta+Quest+%26+Pico+%2F+OpenXR)](https://git.io/typing-svg)
+
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-rusnac-4506b0200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rusnac-ivan)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Rusnac-Ivan)
 
 # 💻 Tech Stack:
@@ -21,11 +23,18 @@ XR/VR · glTF rendering · Cross-platform graphics (OpenGL / Vulkan / LLGL) · R
 ![](https://streak-stats.demolab.com/?user=Rusnac-Ivan&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rusnac-Ivan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# ⏱️ Weekly Coding Time (WakaTime):
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Rusnac-Ivan&theme=tokyonight&hide_border=false)
+
 # 🏆 Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=Rusnac-Ivan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 # 📈 Activity Graph:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Rusnac-Ivan&theme=tokyo-night)
+
+# 🐍 Contribution Snake:
+![](https://raw.githubusercontent.com/Rusnac-Ivan/Rusnac-Ivan/output/snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Rusnac-Ivan/Rusnac-Ivan/output/snake.svg#gh-light-mode-only)
 
 # 🔀 Merged PRs:
 ![](https://img.shields.io/github/search?query=is%3Apr+is%3Amerged+author%3ARusnac-Ivan&label=Merged%20PRs&color=blueviolet)
